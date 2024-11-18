@@ -27,7 +27,7 @@ const Landing = () => {
             Login/Demo User
           </Link>
         </div>
-        <img src={main} className="main main-img" alt="img main-img" />
+        <img src={main} className="img main-img" alt="img main-img" />
       </div>
     </Wrapper>
   );
