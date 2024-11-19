@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { Wrapper } from "../assets/wrappers/RegisterAndLoginPage";
+import Wrapper from "../assets/wrappers/RegisterAndLoginPage";
 import { Logo } from "../components";
 
 const Register = () => {
