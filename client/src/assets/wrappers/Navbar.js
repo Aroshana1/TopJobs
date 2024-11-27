@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 const Wrapper = styled.nav`
   height: var(--nav-height);
@@ -34,6 +34,7 @@ const Wrapper = styled.nav`
     display: flex;
     align-items: center;
   }
+
   @media (min-width: 992px) {
     position: sticky;
     top: 0;
